@@ -753,8 +753,7 @@
         102191581,
         85632405,
         1108803089,
-        421182353,
-        85667831
+        421182353
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -788,7 +787,7 @@
     "wof:id":421187037,
     "wof:lastmodified":1690849773,
     "wof:name":"Tirana",
-    "wof:parent_id":85667831,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:superseded_by":[],
